@@ -11,8 +11,8 @@ Bachelor of Computer Systems and Network Engineering⚡
 ## 🛠️ **Technical Skills**
 ![AWS](https://img.shields.io/badge/AWS-EC2/RDS/CloudWatch-FF9900?logo=amazon-aws) |
 ![Docker](https://img.shields.io/badge/Docker-Containerization-2496ED?logo=docker) |
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-CI/CD-0078D7?logo=azure-devops)
-![Terraform](https://img.shields.io/badge/Terraform-IaC-623CE4?logo=terraform)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-CI/CD-0078D7?logo=azure-devops) |
+![Terraform](https://img.shields.io/badge/Terraform-IaC-623CE4?logo=terraform) |
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-EKS-326CE5?logo=kubernetes)
 
 
