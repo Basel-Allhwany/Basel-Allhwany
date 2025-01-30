@@ -27,9 +27,9 @@
 ---
 
 ## 📜 **Certifications**  
-[![AWS Certified DevOps](https://img.shields.io/badge/AWS-DevOps_Professional-FF9900?logo=amazon-aws)](https://www.credly.com/)  
-[![Terraform Expert](https://img.shields.io/badge/Terraform-Expert-623CE4?logo=terraform)](https://www.hashicorp.com/certification/terraform)  
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-CKA-326CE5?logo=kubernetes)](https://www.cncf.io/certification/)  
+[![AWS Certified DevOps](https://img.shields.io/badge/AWS-DevOps_Professional-FF9900?logo=amazon-aws)]
+[![Terraform Expert](https://img.shields.io/badge/Terraform-Expert-623CE4?logo=terraform)]
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-Beginner-326CE5?logo=kubernetes)]
 
 ---
 
