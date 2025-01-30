@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Basel AL Lihwany 
+# 👋 Hi, I'm Basel AL Lhwany 
 **DevOps Engineer**  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Basel_Al--liwany-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/basel-al-liwany)
