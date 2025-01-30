@@ -9,6 +9,8 @@
 
 🎓 **Bachelor of Computer Systems and Network Engineering** ⚡  
 
+</div>
+
 ---
 
 ## 🛠️ **Technical Skills**  
