@@ -19,9 +19,9 @@ Bachelor of Computer Systems and Network Engineering⚡
 ---
 
 ## 💼 **Professional Experience**
-### **DevOps Engineer @ [Sanadak](https://sanadak.com)**
+### **DevOps Engineer @ [Sanadak](https://sanadak.sa/)**
 `2024 - Present`  
-- Designed and managed AWS cloud infrastructure (EC2, RDS, VPC)  
+- Designed and managed AWS cloud infrastructure (EC2, RDS, VPC, E.G)  
 - Developed CI/CD pipelines using Azure DevOps for fast and secure deployments  
 - Monitored performance via CloudWatch and enhanced security using IAM & Security Groups  
 
@@ -34,15 +34,8 @@ Bachelor of Computer Systems and Network Engineering⚡
 
 ---
 
-## 📈 **GitHub Stats**
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Basel-Alliwany&theme=dark)](https://git.io/streak-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Basel-Alliwany&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
----
 
 ## 📬 **Contact Me**
 - 📧 Basel.lhwany@gmail.com  
 - 📱 +962799629903  
 - 💼 [LinkedIn Profile](https://www.linkedin.com/in/basel-al-liwany)  
-
-**"Simplicity is the ultimate sophistication"** 🎯
