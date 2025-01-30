@@ -37,5 +37,5 @@ Bachelor of Computer Systems and Network Engineering⚡
 
 ## 📬 **Contact Me**
 - 📧 Basel.lhwany@gmail.com  
-- 📱 +962799629903  
+- 📱 +962 799629903  
 - 💼 [LinkedIn Profile](https://www.linkedin.com/in/basel-al-liwany)  
