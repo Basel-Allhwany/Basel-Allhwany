@@ -6,6 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Basel_Al--lhwany-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/basel-al-lhwany-45a1b2290/)
 [![Email](https://img.shields.io/badge/Email-Basel.lhwany@gmail.com-red?style=flat&logo=gmail)](mailto:Basel.lhwany@gmail.com)
+[![CV](https://img.shields.io/badge/View%20My%20CV-Download-00C853?style=flat&logo=googledrive)](https://drive.google.com/file/d/1XLNIH3Ftvv7nSb4j9y6DC9TcDB5wUotx/view?usp=sharing)  
 
  ⚡ **Bachelor of Computer Systems and Network Engineering** 🎓 
 
